@@ -19,5 +19,8 @@
   "homepage": "https://github.com/AleksKutsenko/hexlet-js#readme",
   "dependencies": {
     "loadsh": "^0.0.4"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2"
   }
 }
